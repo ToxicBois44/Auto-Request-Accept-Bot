@@ -17,15 +17,15 @@
 
 <p align="center">
   <a href="https://t.me/sinhalaFlims">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-Blue?logo=Telegram" width="200">
+        <img src="https://img.shields.io/badge/𝗦𝗙𝗣 𝗙𝗟𝗜𝗠𝗦-Blue?logo=Telegram" width="200">
   </p>
 
 <p align="center">
-<a href="https://telegram.dog/Aadhi011"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://telegram.dog/Jonathanlk"><img alt="Telegram" src="https://img.shields.io/badge/Jonathanlk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
 ### Heruko Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Auto-Request-Accept-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/ToxicBois44/Auto-Request-Accept-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
