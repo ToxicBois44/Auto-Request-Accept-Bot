@@ -21,7 +21,7 @@
   </p>
 
 <p align="center">
-<a href="https://telegram.dog/Jonathanlk"><img alt="Telegram" src="https://img.shields.io/badge/Jonathanlk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+<a href="https://telegram.dog/Jonathanlk"><img alt="Telegram" src="https://img.shields.io/badge/Jonathanlk-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ### Heruko Deploy
