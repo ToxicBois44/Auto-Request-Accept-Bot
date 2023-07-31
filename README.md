@@ -1,7 +1,7 @@
 ## 𝗔𝘂𝘁𝗼-Request-𝗔ccept-𝗕𝗼𝘁
 
 <p align="center">
-<a href="https://youtu.be/dAXspAB-xQU"><img src="https://telegra.ph/file/8f810bba085b31e4a6c96.jpg" /></a>
+<a href="https://t.me/sinhalaFlims"><img src="https://telegra.ph/file/ae92aa84f753f6e0642f7.png" /></a>
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 <b>𝚅𝙸𝙳𝙴𝙾 𝙾𝙽 𝙼𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b>
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
+  <a href="https://t.me/sinhalaFlims">
+        <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-Blue?logo=Telegram" width="200">
   </p>
 
 <p align="center">
